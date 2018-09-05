@@ -1,0 +1,18 @@
+{
+  "name": "totsukabot",
+  "version": "1.0.0",
+  "description": "a cute slave",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Davis",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg": "0.0.4",
+    "opusscript": "0.0.6",
+    "uws": "^99.0.0",
+    "ytdl-core": "^0.25.2"
+  }
+}
